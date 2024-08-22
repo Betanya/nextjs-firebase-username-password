@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+if there is something running on 3000 run this 
+
+netstat -ano | findstr :3000
+taskkill /PID <PID> /F for example taskkill /PID 20844 /F in powershell
+
 First, run the development server:
 
 ```bash
