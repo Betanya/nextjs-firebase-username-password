@@ -17,7 +17,7 @@ export default function Signin() {
             alt="Your Company"
           />
           <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-white">
-            Sign in to your account
+            Sign in to your cool account
           </h2>
         </div>
 
